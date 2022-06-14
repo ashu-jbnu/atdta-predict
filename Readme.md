@@ -1,4 +1,19 @@
 ------------
+# Installation
+------------
+
+## Requirements
+------------
+
+Your workstation enviroment must have following components in order to run the code:
+* Python >= 3.7
+* Tensorflow 2.x
+* Keras 2.x
+* matplotlib
+* sklearn
+* graphviz
+
+------------
 # Run The file
 ------------
 ```
